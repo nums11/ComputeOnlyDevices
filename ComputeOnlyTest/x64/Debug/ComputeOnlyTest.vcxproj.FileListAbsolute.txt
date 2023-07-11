@@ -1,0 +1,4 @@
+C:\Users\numform\ComputeOnlyTest\x64\Debug\DirectML.dll
+C:\Users\numform\ComputeOnlyTest\x64\Debug\DirectML.pdb
+C:\Users\numform\ComputeOnlyTest\ComputeOnlyTest\x64\Debug\ComputeOnlyTest.vcxproj.AssemblyReference.cache
+C:\Users\numform\ComputeOnlyTest\ComputeOnlyTest\x64\Debug\ComputeOnlyTest.vcxproj.CopyComplete

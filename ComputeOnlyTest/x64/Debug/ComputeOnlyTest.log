@@ -1,0 +1,4 @@
+﻿  ComputeOnlyTest.cpp
+C:\Users\numform\ComputeOnlyTest\packages\Microsoft.AI.MachineLearning.1.16.0-dev-20230711-0516-c237863045\build\native\include\onnxruntime_cxx_api.h(1948,5): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\numform\ComputeOnlyTest\packages\Microsoft.AI.MachineLearning.1.16.0-dev-20230711-0516-c237863045\build\native\include\onnxruntime_cxx_api.h(2018,2): message : see reference to class template instantiation 'Ort::CustomOpBase<TOp,TKernel,WithStatus>' being compiled
+  ComputeOnlyTest.vcxproj -> C:\Users\numform\ComputeOnlyTest\x64\Debug\ComputeOnlyTest.exe
